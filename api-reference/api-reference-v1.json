@@ -5,9 +5,9 @@
         "description": "Processe arquivos de retorno CNAB",
         "version": "1.0.0"
     },
-    "host": "localhost:9292",
+    "host": "cnab-online.herokuapp.com",
     "schemes": [
-        "http"
+        "https"
     ],
     "basePath": "/v1",
     "produces": [
